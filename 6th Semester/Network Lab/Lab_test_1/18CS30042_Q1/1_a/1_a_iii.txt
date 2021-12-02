@@ -1,0 +1,1 @@
+Total number of packets corresponding to the SMTP = 28

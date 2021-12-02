@@ -1,0 +1,299 @@
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+    647 4.131621       127.0.0.1             127.0.0.1             SMTP     92     45792       25               C: ehlo smtp.iitkgp.ac.in
+
+Frame 647: 92 bytes on wire (736 bits), 92 bytes captured (736 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45792, Dst Port: 25, Seq: 1, Ack: 59, Len: 24
+    Source Port: 45792
+    Destination Port: 25
+    [Stream index: 1]
+    [TCP Segment Len: 24]
+    Sequence Number: 1    (relative sequence number)
+    Sequence Number (raw): 2833431941
+    [Next Sequence Number: 25    (relative sequence number)]
+    Acknowledgment Number: 59    (relative ack number)
+    Acknowledgment number (raw): 734059627
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe40 [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (24 bytes)
+Simple Mail Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+    659 4.175011       127.0.0.1             127.0.0.1             SMTP     108    45792       25               C: mail FROM:<alice@iitkgp.ac.in> size=67
+
+Frame 659: 108 bytes on wire (864 bits), 108 bytes captured (864 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45792, Dst Port: 25, Seq: 25, Ack: 130, Len: 40
+    Source Port: 45792
+    Destination Port: 25
+    [Stream index: 1]
+    [TCP Segment Len: 40]
+    Sequence Number: 25    (relative sequence number)
+    Sequence Number (raw): 2833431965
+    [Next Sequence Number: 65    (relative sequence number)]
+    Acknowledgment Number: 130    (relative ack number)
+    Acknowledgment number (raw): 734059698
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe50 [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (40 bytes)
+Simple Mail Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+    661 4.175438       127.0.0.1             127.0.0.1             SMTP     92     45792       25               C: rcpt TO:<bob@ucla.edu>
+
+Frame 661: 92 bytes on wire (736 bits), 92 bytes captured (736 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45792, Dst Port: 25, Seq: 65, Ack: 138, Len: 24
+    Source Port: 45792
+    Destination Port: 25
+    [Stream index: 1]
+    [TCP Segment Len: 24]
+    Sequence Number: 65    (relative sequence number)
+    Sequence Number (raw): 2833432005
+    [Next Sequence Number: 89    (relative sequence number)]
+    Acknowledgment Number: 138    (relative ack number)
+    Acknowledgment number (raw): 734059706
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe40 [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (24 bytes)
+Simple Mail Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+    663 4.175704       127.0.0.1             127.0.0.1             SMTP     74     45792       25               C: data
+
+Frame 663: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45792, Dst Port: 25, Seq: 89, Ack: 146, Len: 6
+    Source Port: 45792
+    Destination Port: 25
+    [Stream index: 1]
+    [TCP Segment Len: 6]
+    Sequence Number: 89    (relative sequence number)
+    Sequence Number (raw): 2833432029
+    [Next Sequence Number: 95    (relative sequence number)]
+    Acknowledgment Number: 146    (relative ack number)
+    Acknowledgment number (raw): 734059714
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe2e [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (6 bytes)
+Simple Mail Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+    667 4.176333       127.0.0.1             127.0.0.1             SMTP     74     45792       25               C: QUIT
+
+Frame 667: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45792, Dst Port: 25, Seq: 165, Ack: 191, Len: 6
+    Source Port: 45792
+    Destination Port: 25
+    [Stream index: 1]
+    [TCP Segment Len: 6]
+    Sequence Number: 165    (relative sequence number)
+    Sequence Number (raw): 2833432105
+    [Next Sequence Number: 171    (relative sequence number)]
+    Acknowledgment Number: 191    (relative ack number)
+    Acknowledgment number (raw): 734059759
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe2e [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (6 bytes)
+Simple Mail Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+    978 6.179351       127.0.0.1             127.0.0.1             SMTP     88     45794       25               C: ehlo smtp.ucla.edu
+
+Frame 978: 88 bytes on wire (704 bits), 88 bytes captured (704 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45794, Dst Port: 25, Seq: 1, Ack: 59, Len: 20
+    Source Port: 45794
+    Destination Port: 25
+    [Stream index: 3]
+    [TCP Segment Len: 20]
+    Sequence Number: 1    (relative sequence number)
+    Sequence Number (raw): 1287013526
+    [Next Sequence Number: 21    (relative sequence number)]
+    Acknowledgment Number: 59    (relative ack number)
+    Acknowledgment number (raw): 620079787
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe3c [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (20 bytes)
+Simple Mail Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+    998 6.222486       127.0.0.1             127.0.0.1             SMTP     102    45794       25               C: mail FROM:<bob@ucla.edu> size=64
+
+Frame 998: 102 bytes on wire (816 bits), 102 bytes captured (816 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45794, Dst Port: 25, Seq: 21, Ack: 130, Len: 34
+    Source Port: 45794
+    Destination Port: 25
+    [Stream index: 3]
+    [TCP Segment Len: 34]
+    Sequence Number: 21    (relative sequence number)
+    Sequence Number (raw): 1287013546
+    [Next Sequence Number: 55    (relative sequence number)]
+    Acknowledgment Number: 130    (relative ack number)
+    Acknowledgment number (raw): 620079858
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe4a [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (34 bytes)
+Simple Mail Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+   1000 6.222909       127.0.0.1             127.0.0.1             SMTP     98     45794       25               C: rcpt TO:<alice@iitkgp.ac.in>
+
+Frame 1000: 98 bytes on wire (784 bits), 98 bytes captured (784 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45794, Dst Port: 25, Seq: 55, Ack: 138, Len: 30
+    Source Port: 45794
+    Destination Port: 25
+    [Stream index: 3]
+    [TCP Segment Len: 30]
+    Sequence Number: 55    (relative sequence number)
+    Sequence Number (raw): 1287013580
+    [Next Sequence Number: 85    (relative sequence number)]
+    Acknowledgment Number: 138    (relative ack number)
+    Acknowledgment number (raw): 620079866
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe46 [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (30 bytes)
+Simple Mail Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+   1002 6.223536       127.0.0.1             127.0.0.1             SMTP     74     45794       25               C: data
+
+Frame 1002: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45794, Dst Port: 25, Seq: 85, Ack: 146, Len: 6
+    Source Port: 45794
+    Destination Port: 25
+    [Stream index: 3]
+    [TCP Segment Len: 6]
+    Sequence Number: 85    (relative sequence number)
+    Sequence Number (raw): 1287013610
+    [Next Sequence Number: 91    (relative sequence number)]
+    Acknowledgment Number: 146    (relative ack number)
+    Acknowledgment number (raw): 620079874
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe2e [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (6 bytes)
+Simple Mail Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Source Port Destination Port Info
+   1007 6.224921       127.0.0.1             127.0.0.1             SMTP     74     45794       25               C: QUIT
+
+Frame 1007: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 45794, Dst Port: 25, Seq: 158, Ack: 191, Len: 6
+    Source Port: 45794
+    Destination Port: 25
+    [Stream index: 3]
+    [TCP Segment Len: 6]
+    Sequence Number: 158    (relative sequence number)
+    Sequence Number (raw): 1287013683
+    [Next Sequence Number: 164    (relative sequence number)]
+    Acknowledgment Number: 191    (relative ack number)
+    Acknowledgment number (raw): 620079919
+    1000 .... = Header Length: 32 bytes (8)
+    Flags: 0x018 (PSH, ACK)
+    Window: 512
+    [Calculated window size: 65536]
+    [Window size scaling factor: 128]
+    Checksum: 0xfe2e [unverified]
+    [Checksum Status: Unverified]
+    Urgent Pointer: 0
+    Options: (12 bytes), No-Operation (NOP), No-Operation (NOP), Timestamps
+    [SEQ/ACK analysis]
+    [Timestamps]
+    TCP payload (6 bytes)
+Simple Mail Transfer Protocol

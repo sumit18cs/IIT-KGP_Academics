@@ -1,0 +1,2 @@
+make:
+	g++ network.cpp

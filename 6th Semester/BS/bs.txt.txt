@@ -1,0 +1,290 @@
+
+BS20001_Spring21_Test1
+Date of Exam: 17th Feb, 2021
+Time: 1hr (2:30 pm to 3:30 pm)
+Total marks: 40
+ONLY ONE correct answer. NO NEGATIVE marking. Choose the BEST possible answer.
+Points:
+34/40
+1
+Formation of peptide bond is a
+(1/1 Point)
+condensation reaction
+ligation reaction
+oxidation reaction
+hydrolysis reaction
+2
+Which of the following is in correct order of sequence as they happen in a cell:
+(1/1 Point)
+Transcription, Translation, mRNA Splicing, Protein folding
+Transcription, mRNA Splicing, Translation, Protein folding
+Transcription, Translation, 5' capping of mRNA, Protein folding
+Transcription, Translation, poly-adenylation Protein folding
+3
+Which of the following best describes a promoter:
+(0/1 Point)
+A specific DNA sequence to which RNA polymerase binds
+An extracellular inducer that controls genes expression
+A specific DNA sequence that promotes termination of transcription
+A specific DNA sequence from where transcription starts
+4
+Following is the protein coding part of the DNA sequence of a hypothetical gene: 
+5’ ATG GCC TAA TAC TGG TGC ACG ACG TGC GGT GTC TGC ATA TTT TAA 3’
+Predict what will happen to the protein product of the gene if you mutate (change) the first codon from ATG into TTG.
+(1/1 Point)
+No protein will be synthesized
+Protein will be produced but its amino acid composition will be changed
+Protein length will be unaffected
+Protein will be shorter in length
+5
+Protein secondary structures are stabilized primarily by (chose the best answer)
+(1/1 Point)
+amino acid sidechains
+electrostatic interactions
+van der Waal's forces
+hydrogen bonds
+6
+Anfinsen’s experiment showed that
+(1/1 Point)
+It is easier to win the Nobel Prize in Chemistry by Biochemists
+The primary sequence of a protein can be predicted from its three-dimensional structure
+The three-dimensional structure of a protein is encoded in its primary sequence
+Right combination of disulfide bonds dictate the three-dimensional structure of a protein
+7
+A new strain of bacteria was isolated from a natural hot water geyser. Comment on the expected DNA base compositions in this thermophilic organism (living in high temperatures).
+(1/1 Point)
+Equal A+T and G+C composition
+Insufficient data
+A+T > G+C
+G+C > A+T
+8
+Which of the following amino acids often participate in covalent bond formation through its side chain?
+(1/1 Point)
+Valine
+Glycine
+Cysteine
+Alanine
+9
+DNA present in E. coli is
+(1/1 Point)
+single-stranded, left-handed, linear
+double stranded, right-handed, circular
+single stranded, right-handed, circular
+double stranded, right-handed, linear
+10
+A genetic analysis of an unknown infectious agent reveals that it contains only nucleotides G, A, U and C, in the proportion 30%, 35%, 15% and 20%, respectively. Based on this information, this infectious agent is most likely
+(1/1 Point)
+single-stranded RNA virus
+not enough information is provided
+double-stranded DNA virus
+single-stranded DNA virus
+11
+Backbone of DNA and RNA is covalently linked through ----------- and is ------------------- in nature.
+(1/1 Point)
+phosphoester, hydrophilic
+phosphoester bond, hydrophobic
+phosphodiester bond, hydrophobic
+phosphodiester bond, hydrophilic
+12
+In Sanger DNA sequencing technique, ddNTP (analogue of dNTP) is used that can terminate DNA synthesis when they get incorporated. How does that happen?
+(1/1 Point)
+ddNTPs are bulky molecules
+ddNTPs are positively charged
+In ddNTPs 3’OH group is changed to –H group
+ddNTPs have ribose sugar instead of deoxyribose
+13
+100 template DNA molecules are PCR amplified for 25 cycles in a 100 µl reaction mixture. How many amplified products will be there in 0.01 µl of solution after amplification?
+(1/1 Point)
+14
+A 990 nucleotide long Eukaryotic nascent mRNA has a 60 nucleotide long intron. But the mature mRNA available for translation is found to be 1100 nucleotide long. What may have caused the increased length of the mature mRNA?
+(0/1 Point)
+Poly-A tailing
+Reverse transcription
+5’ capping
+Splicing
+15
+Which one of the following statements is incorrect?
+(1/1 Point)
+Lagging strand is synthesized from 3’ to 5’ direction
+Leading strand is synthesized from 5’ to 3’ direction
+Lagging strand requires more primers than leading strand during replication
+Okazaki fragments are observed during lagging strand synthesis
+16
+Which sugar is found in RNA?
+(1/1 Point)
+Pentose
+Fructose
+Deoxyribose
+Lactose
+17
+The nucleotides in DNA and RNA have three components: a sugar group, a nitrogenous base, and a phosphate group. Adjacent nucleotides in a nucleic acid are joined by a phosphodiester bond. This bond links the phosphate group of one nucleotide to which one of the following components of a neighbouring nucleotide?
+(1/1 Point)
+Sugar
+Phosphate
+Base
+Others
+18
+Hemoglobin and RNA polymerase are examples of
+(1/1 Point)
+Two of the most complex proteins present in our body.
+Quaternary structures of protein
+Tertiary structures of protein
+Proteins that are available in all of our cells
+19
+In an alien species, there are only 2 types of nucleotides (instead of 4 types in humans) but codons are 4 nucleotide long. If each type of codon specifies one unique amino acid, how many possible amino acids can be coded. Also consider that they have only one stop codon.
+(1/1 Point)
+15
+63
+7
+31
+20
+In a folded protein, the nonpolar (hydrophobic) amino acids tend to be
+(0/1 Point)
+hidden inside the protein
+exposed on the outside of the protein
+distributed randomly throughout the protein
+cannot be predicted
+21
+Peptide backbone has three torsion angles namely omega, phi and psi. However, Ramachandran map ignores one of these and plots only two. Which of the following statements gives the CORRECT reasoning for this.
+(1/1 Point)
+Historically only two torsion angles were discovered at that time. Hence, Ramachandran and his student used only those two torsion angles for the map.
+One of the torsion angles is part of the peptide plane and in most cases has only one value. Hence, unnecessary to plot.
+A two-dimensional plot can be made using only two variables. Hence one of the angles was ignored.
+It does not matter which two torsion angles are used to create the Ramachandran map. The same map can be created by choosing any two of the three torsion angles.
+22
+What is the nature of the interaction between tRNAs and mRNAs at the translation site?
+(1/1 Point)
+Electrostatic interaction
+Hydrophobic interaction
+Hydrogen bond
+Covalent bond
+23
+Theoretically, a vast number of different proteins can be assembled from 20 different amino acids. How many polypeptide chains are possible that are 10 amino acids long?
+(1/1 Point)
+24
+Which one of the following statements is correct?
+(1/1 Point)
+5’ end of nascent eukaryotic mRNA acquires a poly A tail
+Transcription and translation occurs in the same cellular compartment in eukaryotes
+Splicing removes introns from eukaryotic transcripts
+Poly-A tailing of mRNA is a template dependent synthesis
+25
+RNA is chemically less stable than DNA, because of
+(1/1 Point)
+the uracil base instead of the thymine
+the presence of the 2’-OH group
+the extra carbon atom
+All of the above
+26
+In an experiment, it was found that the value of Tm for a DNA sample is = 70° C. If that DNA sample has 45% GC at the above Tm, then what will be the value of 'Tm' if the GC% increases to 55%?
+(1/1 Point)
+Increases
+Decreases
+Can’t be predicted
+Remains same
+27
+Metal ions such as Na+, K+ and Mg2+ interact with the following of DNA
+(0/1 Point)
+Nitrogenous base
+Sugar group
+Phosphate group
+All of the above
+28
+What is a protein domain?
+(1/1 Point)
+A multi-subunit protein complex
+Part of a protein folded into a self-contained 3D structure
+An unfolded part of a protein
+The α-helical or β-pleated sheet portion of a protein
+29
+Glycine and alanine contain ______ and_______ chiral centre(s) respectively
+(1/1 Point)
+0, 1
+1, 0
+1, 2
+1, 1
+30
+In alpha helix and beta sheets, the hydrogen bonds are
+(0/1 Point)
+perpendicular to the helical axis and perpendicular to the beta strands
+parallel to the helical axis and perpendicular to the beta strands
+perpendicular to the helical axis and parallel to the beta strands
+parallel to the helical axis and parallel to the beta strands
+31
+Arrange the following options in increasing order of protein structure hierarchy:
+A: alpha-helix
+B: amino acid sequence 
+C: quaternary structure
+D: folded structure
+(1/1 Point)
+B, A, D, C
+B, C, A, D
+A, C, B, D
+A, B, C, D
+32
+What will be the transcript (i.e. RNA) of this gene (coding strand is underlined)?
+(1/1 Point)
+5’ U A C C C C C G C A U U 3’
+3’ A U G G G G G C G U A A 5’
+5’ A U G G G G G C G U A A 3’
+3’ U A C C C C C G C A U U 5’
+33
+One undergrad student is repeating Anfinsen's experiment with an enzyme that has TEN cysteine residues and forms FIVE disulfide bonds. What is the total number of possible disulfide bond combinations that can be formed randomly in the denatured protein?
+(1/1 Point)
+225
+945
+45
+105
+34
+In lac operon, if you remove the lac operator (the repressor binding site), what will be the effect on the metabolic state of the bacteria?
+(1/1 Point)
+RNA Polymerase will not be able to bind the promoter
+Lactose metabolizing enzymes will be produced irrespective of the presence or absence of lactose
+Glucose metabolism will be blocked
+Lactose will never be metabolized because the enzymes will never be synthesized
+35
+A tripeptide has
+(0/1 Point)
+3 amino acids and 3 peptide bonds
+6 amino acids and 3 peptide bonds
+3 amino acids and 2 peptide bonds
+4 amino acids and 3 peptide bonds
+36
+During transcription, RNA polymerase reads the template DNA strand in:
+(1/1 Point)
+5’- 3’ direction
+3’- 5’ direction
+in both directions
+does not require a DNA template
+37
+Which of the following chemicals would you add in a protein sample in order to eliminate the disulfide bonds?
+(1/1 Point)
+H2O2, an oxidizing reagent
+SDS, an ionic detergent
+NaCl, a salt
+DTT, a reducing agent
+38
+In classic Sanger DNA sequencing technique, four types of ddNTPs are used along with the normal dNTPs. Which of the following is the correct combination?
+(1/1 Point)
+Each tube will have one type of ddNTP and all four types of dNTP
+Each tube will have one type of dNTP and all four types of ddNTP
+All four ddNTPs and four dNTPs in same reaction tube
+Each tube with one type of ddNTP and one type of dNTP (e.g., ddATP + dATP in tube 1, ddGTP + dGTP in tube 2 and so on)
+39
+Choose the enzyme that is not composed of protein:
+(1/1 Point)
+DNA ligase
+Peptidyl transferase
+RNA polymerase
+DNA polymerase
+40
+The coding region of a gene is 102 nucleotides long, including both start and stop codons. Which of the following would be the most likely effect of a single nucleotide deletion at position 76 in the coding region?
+(1/1 Point)
+There would be changes only in the first 25 amino acids
+There would be changes only after the first 25 amino acids
+The entire amino acid sequence of the polypeptide would change
+There would be no effect on the polypeptide
+This content is created by the owner of the form. The data you submit will be sent to the form owner. Microsoft is not responsible for the privacy or security practices of its customers, including those of this form owner. Never give out your password.
+Powered by Microsoft Forms
+| Privacy and cookies
+| Terms of use
